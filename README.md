@@ -38,10 +38,10 @@ The project is structured into two main components:
 ## Screenshots
 Here are some screenshots of the project:
 
-![Home Page](assets/home-page.png)
-![Employee List](assets/employee-list.png)
-![Create New Employee](assets/create-employee.png)
-![Server API](assets/server-api.png)
+![Home Page](<img width="938" alt="HomePage" src="https://github.com/Aman12305/SpringBootApplication/assets/93370526/2db6a7fc-968b-4cf3-a54d-238f9c3972a7">)
+![Employee List](<img width="953" alt="EmployeeListPage" src="https://github.com/Aman12305/SpringBootApplication/assets/93370526/5c1a1f05-ec6d-4bb6-93b7-3febf15465d7">)
+![Create New Employee](<img width="866" alt="CreateNewEmployee" src="https://github.com/Aman12305/SpringBootApplication/assets/93370526/7c7b5aba-3bbf-4d81-8a88-5647154c4df0">)
+![Server API](<img width="926" alt="ServerApi" src="https://github.com/Aman12305/SpringBootApplication/assets/93370526/5a7ee51f-56dc-448e-9600-da719484f6ff">)
 
 ## Getting Started
 To run this project locally, follow these steps:
